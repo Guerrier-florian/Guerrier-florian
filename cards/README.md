@@ -1,1 +1,0 @@
-Les cinq cartes SVG animées utilisées dans le README du profil. Modifiez ces fichiers pour ajuster les textes ou les couleurs. Les animations sont désactivées pour les visiteurs qui préfèrent réduire les mouvements.
